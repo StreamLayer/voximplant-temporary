@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target  = '9.0'
   
 
-  s.source       = { :http => 'https://s3.eu-central-1.amazonaws.com/voximplant-releases/ios-webrtc/78.5.3/VoxImplantWebRTC.zip', :sha256 => '381428502795e634f3fa43cdef56e5f05b95fbbdea45e25596afbf205fdc652f' }
+  s.source       = { :http => 'https://s3.eu-central-1.amazonaws.com/voximplant-releases/ios-webrtc/89.0.1/VoxImplantWebRTC.zip', :sha256 => '381428502795e634f3fa43cdef56e5f05b95fbbdea45e25596afbf205fdc652f' }
 
   s.vendored_frameworks = "WebRTC.framework"
   
